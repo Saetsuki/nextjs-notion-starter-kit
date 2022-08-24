@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '· 𝓜𝓮𝓵𝓽𝔂 𝓜𝓸𝓸𝓭 ·',
-  domain: 'cherry.saetsuki.top',
+  domain: 'https://saetsuki-zili.notion.site/a1ea41bac8754f8d81b6c2b311c3938a',
   author: 'Saetsuki',
 
   // open graph metadata (optional)
