@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '· 𝓜𝓮𝓵𝓽𝔂 𝓜𝓸𝓸𝓭 ·',
-  domain: 'melty-mood.saetsuki.top',
+  domain: 'cherry.saetsuki.top',
   author: 'Saetsuki',
 
   // open graph metadata (optional)
